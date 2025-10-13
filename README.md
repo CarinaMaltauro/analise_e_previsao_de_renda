@@ -1,4 +1,4 @@
-## Análise e Previsão de Renda
+# Análise e Previsão de Renda
 
 Este projeto tem como objetivo analisar e prever a renda de indivíduos com base em um conjunto de dados socioeconômicos.
 A partir da análise exploratória dos dados e da aplicação de modelos de regressão, foi desenvolvido um aplicativo interativo em Streamlit que permite ao usuário:
@@ -9,7 +9,7 @@ Obter uma previsão estimada de renda baseada em um modelo de aprendizado de má
 
 Explorar visualizações interativas dos dados utilizados na análise
 
-## 🧠 Etapas do Projeto
+# 🧠 Etapas do Projeto
 
 Análise exploratória dos dados (EDA)
 
