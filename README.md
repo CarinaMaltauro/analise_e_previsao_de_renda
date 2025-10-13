@@ -45,6 +45,10 @@ Matplotlib, Seaborn, Plotly
 
 Streamlit
 
+# 📈 Resultado
+
+O projeto fornece uma ferramenta prática e visual para estimar a renda de novos indivíduos e compreender melhor os fatores que influenciam a renda na base de dados analisada.
+
 
 
 
